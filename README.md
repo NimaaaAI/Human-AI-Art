@@ -1,6 +1,7 @@
 # AI vs. Human Art Classification
 
-Project Overview
+##Project Overview:
+
 The rise of generative AI has made it increasingly difficult to distinguish between human-made masterpieces and machine-generated imagery. This project aims to bridge that gap by developing a robust computer vision classifier capable of identifying the origin of an artwork. By leveraging deep learning, we explore whether there are underlying patterns—such as texture, brushstroke consistency, or structural logic—that differentiate human creativity from algorithmic synthesis.
 
 Objectives
