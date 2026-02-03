@@ -39,3 +39,6 @@ I selected **ResNet18** as the backbone for the following reasons:
 * **Data Handling:** Pandas, NumPy
 * **Evaluation:** Scikit-Learn
 * **Visualization:** Matplotlib, Seaborn
+
+## Kaggle repo
+https://www.kaggle.com/code/nimasaghi/human-ai-art
